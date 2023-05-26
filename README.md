@@ -4,7 +4,7 @@ Demo app for showcasing text typing animation with haptic feedback along with ba
 
 > Haptic feedback only works nicely on iOS. Android support is not implemented yet.
 
-https://github.com/sbis04/haptic_type_transition/assets/43280874/adf2ec92-c977-4a94-ba95-8fd5c113028f
+https://github.com/sbis04/haptic_type_transition/assets/43280874/361a7940-a07d-4ee0-a75f-996ebf33585f
 
 ## License
 
